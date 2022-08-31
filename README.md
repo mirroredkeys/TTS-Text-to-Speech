@@ -7,7 +7,7 @@ Python 3.10.5
     pip install pyttsx3
     
 #### App Installation/Execution Procedures:
-1. download and open the file
+1. download and open the folder
 2. make virtual environment
 3. install package(s)
    
